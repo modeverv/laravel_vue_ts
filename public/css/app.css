@@ -10660,3 +10660,11 @@ a.text-dark:focus {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
+* {
+  color: rgba(80, 88, 92, 0.75);
+}
+
+.container {
+  background-color: #f2f6f9;
+}
+
